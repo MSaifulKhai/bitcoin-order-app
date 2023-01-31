@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Bitcoin vv
+=======
+# Bitcoin Web App n
+>>>>>>> 8faadbe038c49b844e4c8139b1f9040a3ab351ea
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
